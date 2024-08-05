@@ -9,16 +9,22 @@
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/muhammed-ashif-a8b225277/)  
 [![LeetCode](https://img.shields.io/badge/-LeetCode-000?&logo=leetCode)](https://leetcode.com/u/MuhammedAshif/)  
-[![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:ashifpvnr@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:your-email@example.com)
 
 ## Languages and Tools
 ![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go)
 ![Gin](https://img.shields.io/badge/-Gin-000?&logo=Go&logoColor=blue)
 ![Gorm](https://img.shields.io/badge/-Gorm-000?&logo=Go)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![Swagger](https://img.shields.io/badge/-Swagger-000?&logo=swagger)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=nginx)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes)
+![Microservices](https://img.shields.io/badge/-Microservices-000?&logo=microservices)
+![gRPC](https://img.shields.io/badge/-gRPC-000?&logo=grpc)
+![CI/CD](https://img.shields.io/badge/-CI/CD-000?&logo=ci%2Fcd)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
