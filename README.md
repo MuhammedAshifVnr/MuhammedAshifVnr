@@ -34,6 +34,9 @@
 ![Muhammed Ashif's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammedAshifVnr&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedAshifVnr&layout=compact&theme=radical)
 
+## Visitor Count
+![Visitor Count](https://komarev.com/ghpvc/?username=MuhammedAshifVnr&color=blue&style=flat-square)
+
 ---
 
 Thanks for stopping by!
